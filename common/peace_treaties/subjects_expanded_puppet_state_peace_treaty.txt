@@ -137,6 +137,7 @@ make_puppet_state = {
 				has_reform = constitutional_republic
 				has_reform = bureaucratic_despotism
 				has_reform = english_monarchy
+				has_reform = scottish_monarchy
 				has_reform = trading_city
 				has_reform = dutch_republic
 				has_reform = american_republic
