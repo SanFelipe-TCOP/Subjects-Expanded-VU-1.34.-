@@ -431,7 +431,7 @@ austrian_italian_ambition_provinces = { #Why the hell did Draiocht change my tri
 reclaim_neumark_provinces = {
 	OR = {
 		province_id = 49
-		province_id = 7821
+		province_id = 7819
 		province_id = 4747
 	}
 }
@@ -4303,7 +4303,7 @@ bt_generic_can_form_potential_check = {
 	NOT = { was_tag = HIN }
 	NOT = { was_tag = BHA }
 	NOT = { was_tag = ARB }
-	NOT = { was_tag = PAP }
+	#NOT = { was_tag = PAP }
 	NOT = { was_tag = SPA }
 	NOT = { was_tag = BSP }
 	NOT = { was_tag = SPB }
