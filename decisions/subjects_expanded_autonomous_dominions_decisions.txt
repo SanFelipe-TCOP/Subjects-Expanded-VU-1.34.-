@@ -2202,6 +2202,10 @@ country_decisions = {
 							region = indonesia_region
 							region = moluccas_region
 							region = malaya_region
+							region = riau_islands_region
+							region = nusa_tenggara_region
+							region = borneo_region
+							region = celebes_region
 						}
 					}
 				}
@@ -4176,6 +4180,15 @@ country_decisions = {
 					}
 				}
 			}
+			modifier = {
+				factor = 0
+				NOT = {
+					num_of_owned_provinces_with = {
+						value = 5
+						region = nusa_tenggara_region
+					}
+				}
+			}			
 			modifier = {
 				factor = 0.1
 				NOT = { has_country_flag = trade_company }
