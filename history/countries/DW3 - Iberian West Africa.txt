@@ -1,4 +1,4 @@
-# Audax Validator "!" Ignore_1009
+#Iberian West Africa
 
 government = republic
 add_government_reform = presidential_despot_reform
