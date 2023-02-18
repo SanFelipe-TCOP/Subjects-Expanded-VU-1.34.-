@@ -1,9 +1,9 @@
-# Audax Validator "!" Ignore_1009
+#Germanic South Africa
 
 government = republic
 add_government_reform = presidential_despot_reform
 technology_group = western
-primary_culture = afrikaner
+primary_culture = german_afrikaner
 religion = protestant
 unit_type = western
 government_rank = 1
